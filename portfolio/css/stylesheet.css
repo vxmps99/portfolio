@@ -1,0 +1,178 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+main{
+     background-color: rgb(10, 10, 10);
+    }
+header{
+    background-color: rgb(10, 10, 10);
+    position: sticky;
+    top: 0px;
+    z-index: 1;
+}
+footer{
+    background: linear-gradient(rgb(10, 10, 10),rgb(25, 31, 114));
+    height: 120px;
+}
+h1{ 
+    font-family: "Hanken Grotesk", sans-serif;
+    font-optical-sizing: 32px;
+    font-weight: 500;
+    font-style: normal;
+    color: azure;
+    position: relative;
+    left: 108px;
+    bottom: 24px;
+}
+h2 { 
+    font-family: "Hanken Grotesk", sans-serif;
+    font-optical-sizing: 24px;
+    font-weight: 500;
+    font-style: normal;
+    color: azure;
+    position: relative;
+    left: 18px;
+    top: 24px;
+}
+h3{
+    font-family: "Hanken Grotesk", sans-serif;
+    font-optical-sizing: 24px;
+    font-weight: 500;
+    font-style: normal;
+    color: azure;
+    position: relative;
+    left: 60px;
+    top: 24px; 
+}
+#art{
+    font-family: "Hanken Grotesk", sans-serif;
+    font-optical-sizing: 24px;
+    font-weight: 200;
+    font-style: normal;
+    color: azure;
+    position: relative;
+    left: 40px;
+    top: 16px;
+    width: 1100px;
+}
+.pcard{
+    font-family: "Hanken Grotesk", sans-serif;
+    font-optical-sizing: 24px;
+    font-weight: 200;
+    font-style: normal;
+    color: azure;
+    position: relative;
+    left: 18px;
+    top: 32px;
+    width: 300px;
+}
+ul{
+    font-family: "Hanken Grotesk", sans-serif;
+    font-optical-sizing: 16px;
+    font-weight: 400;
+    font-style: normal;
+    color: azure;
+    position: relative;
+    left: 1600px;
+    bottom: 88px;
+}
+#in{
+    height: 80px;
+    width: 60px;
+    position: relative;
+    left: 32px;
+    top: 16px;
+}
+.rs{
+    height: 40px;
+    width: 40px;
+    position: relative;
+    left: 60px;
+    top: 32px;
+
+}
+#parte1{
+    position: relative;
+    width: 400px;
+    height: 600px;
+    left: 600px;
+    border: solid 2px white;
+    border-radius: 24px;
+}
+#cool{
+    height: 300px;
+    width: 360px;
+    position: relative;
+    left: 18px;
+    top: 16px;
+    border-radius: 16px;
+}
+#parte2{
+    position: relative;
+    width: 400px;
+    height: 600px;
+    left: 1180px;
+    bottom: 600px;
+    border: solid 2px white;
+    border-radius: 24px;
+}
+#ctx{
+    height: 300px;
+    width: 360px;  
+    position: relative;
+    left: 18px;
+    top: 16px;
+    border-radius: 16px;
+}
+article{
+    position: relative;
+    left: 500px;
+    bottom: 400px;
+    width: 1200px;
+    height: 600px;
+    border-radius: 16px;
+    border: solid 2px white;
+}
+iframe{
+    width: 800px;
+    height: 400px;
+    position: relative;
+    left: 200px;
+    top: 40px;
+}
+#acerca{
+    background: linear-gradient(to right, rgb(241, 131, 245), rgb(57, 70, 255));
+    color:  rgb(0, 0, 0);
+    font-family: "Hanken Grotesk", sans-serif;
+    font-optical-sizing: 24px;
+    font-weight: 800;
+    font-style: normal;
+    position: relative;
+    left: 1800px;
+    bottom: 120px;
+    height: 32px;
+    width: 180px;
+    border-radius: 20px;
+}
+input{
+    position: relative;
+    left: 400px;
+    top: 16px;
+    height: 32px;
+    width: 600px;
+    border-radius: 8px;
+}
+#enviar{
+    background:linear-gradient(to right,rgb(241, 131, 245), rgb(57, 70, 255));
+    font-family: "Hanken Grotesk", sans-serif;
+    font-optical-sizing: 24px;
+    font-weight: 800;
+    font-style: normal;
+    border-radius: 20px;
+    position: relative;
+    left: 424px;
+    top: 15px;
+    height: 32px;
+    width: 180px;
+}
